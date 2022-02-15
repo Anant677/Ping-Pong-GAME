@@ -1,0 +1,36 @@
+body
+{
+background-size: cover;
+}
+.heading{
+width:100%;
+margin:0px;
+display:inline block;
+font-size: 20px;
+}
+.ok{
+    border:5px solid white;
+    }
+    .modal-dialog{
+        width:80%;
+    }
+#canvas{
+    border:1px solid white;
+    border-radius: 20px;
+}
+.copyright-footer{
+    bottom:0px;
+    line-height:5px;
+    background:grey;
+    color:black;
+    letter-spacing: 1px;
+    width:100%;
+}
+footer{
+    background-color: grey;
+    font-size:15px;
+    line-height: 30px;
+}
+#ok{
+    margin-left: 10px;
+}
